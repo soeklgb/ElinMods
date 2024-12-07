@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>ImportExcel Alternative</title>
+  <id>soeklgb_import_excel_alternative</id>
+  <author>enzaki</author>
+  <loadPriority>0</loadPriority>
+  <tags>Utility</tags>
+  <description>
+    ModUtil.ImportExcelがExcelファイルを読む方法を、ハードコードからシートの1行目と2行目を参照して読み込む方法に置き換えます。
+  </description>
+  <version>0.23.46</version>
+</Meta>
